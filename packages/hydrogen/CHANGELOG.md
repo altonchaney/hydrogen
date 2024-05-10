@@ -1,5 +1,11 @@
 # @shopify/hydrogen
 
+## 2024.4.3
+
+### Patch Changes
+
+- Improve VariantSelector to return variant object in option values. Thank you @NabeelAhmed1721 by [@blittle](https://github.com/blittle)
+
 ## 2024.4.2
 
 ### Patch Changes
